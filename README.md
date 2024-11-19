@@ -7,6 +7,7 @@ JACOTIN Bastien - PORTFOLIO
     - [Matchstick Game](#matchstick-game)
     - [Tic-Tac-Toe](#tic-tac-toe)
     - [Connect Four](#connect-four)
+    - [Scrabble](#scrabble)
 3. [Skills](#skills)
 4. [Contact](#contact)
 
@@ -36,6 +37,10 @@ I developed a classic Tic-Tac-Toe game, allowing two players to compete. This pr
 ## **Connect Four**
 
 My most ambitious project so far is a Connect Four game. Players drop their discs into a grid, and the first to connect four discs in a row wins. This project challenged me to think about more complex algorithms and data structures.
+
+## **Scrabble**
+
+The biggest thing I developped in team. Using Java with JavaFX to developp the ScrabbleGame. We used some complex algorithms to achieve.
 
 
 
