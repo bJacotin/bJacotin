@@ -16,11 +16,6 @@ JACOTIN Bastien - PORTFOLIO
 
 Hello! My name is Bastien Jacotin, and I am an 18-year-old student currently studying Information Technology at the IUT in Limoges. I have a strong passion for programming and have been honing my skills in various languages and projects. My journey in coding started with Python, and I have developed several mini-games to showcase my abilities.
 
-My soft-skills are : 
--French ( Native ) ; English (B2) ; Spanish (B1) ; Greek (A2)
--Communication
--TeamWork
-
 ## **Projects**
 
 ## **Guessing Game**
