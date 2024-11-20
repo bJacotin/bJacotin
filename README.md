@@ -1,54 +1,68 @@
-JACOTIN Bastien - PORTFOLIO
 
-## Table of Contents
-1. [About Me](#about-me)
-2. [Projects](#projects)
-    - [Guessing Game](#guessing-game)
-    - [Matchstick Game](#matchstick-game)
-    - [Tic-Tac-Toe](#tic-tac-toe)
-    - [Connect Four](#connect-four)
-    - [Scrabble](#scrabble)
-3. [Skills](#skills)
-4. [Contact](#contact)
+Voici une version très stylée de ton README.md, avec une mise en forme qui attire l’attention et un peu plus de dynamisme ! 🚀
 
+✨ Bastien Jacotin - Portfolio ✨
+🌟 Code. Create. Innovate. 🌟
 
-## **About Me**
+<p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="600"/> </p>
+🗂️ Table of Contents
+🎯 About Me
+🚀 Projects
+🎲 Guessing Game
+🔥 Matchstick Game
+❌ Tic-Tac-Toe
+🔵 Connect Four
+🧩 Scrabble
+⚙️ Skills
+🌐 Languages
+📫 Contact
+🎯 About Me
+👋 Hello! My name is Bastien Jacotin, and I’m an 18-year-old student currently studying Information Technology at the IUT in Limoges.
 
-Hello! My name is Bastien Jacotin, and I am an 18-year-old student currently studying Information Technology at the IUT in Limoges. I have a strong passion for programming and have been honing my skills in various languages and projects. My journey in coding started with Python, and I have developed several mini-games to showcase my abilities.
+I am passionate about programming, crafting solutions, and challenging myself with creative projects. My coding journey began with Python, and since then, I’ve developed a variety of mini-games and collaborated on exciting projects.
 
-## **Projects**
+When I’m not coding, you can find me exploring new technologies, improving my skills, or playing strategy games.
 
-## **Guessing Game**
+"Every line of code is a step closer to innovation." 💻
 
-One of my first projects was a simple guessing game. The program selects a random number, and the player has to guess what it is. This project helped me understand the basics of input/output operations and control structures in Python.
+🚀 Projects
+🎲 Guessing Game
+A simple yet fun Python game!
 
+The program generates a random number, and players guess it.
+This was my first dive into I/O operations and control structures.
+🔥 Matchstick Game
+A strategic game:
 
-## **Matchstick Game**
+Players take turns picking 1-3 matchsticks.
+The player forced to take the last stick loses.
+It strengthened my skills in game logic and turn-based mechanics.
+❌ Tic-Tac-Toe
+The classic battle of Xs and Os:
 
-I also created a matchstick game where players take turns to pick 1 to 3 matchsticks, and the player forced to take the last matchstick loses. This project was a great exercise in implementing game logic and turn-based mechanics.
+Two-player game with a simple interface.
+Enhanced my knowledge of arrays and win condition algorithms.
+🔵 Connect Four
+My most ambitious project to date!
 
+Players drop discs to align four in a row.
+Challenged me with complex data structures and strategic thinking.
+🧩 Scrabble
+Collaborative project built in Java:
 
-## **Tic-Tac-Toe**
+Developed the Scrabble game using JavaFX.
+Leveraged teamwork to implement advanced algorithms for scoring and tile placement.
+⚙️ Skills
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> </a> </p>
+🌐 Languages
+French: Native 🇫🇷
+English: B2 🌍
+Spanish: B2 🌎
+Greek: A2 🇬🇷
+📫 Contact
+Feel free to connect with me if you have questions, suggestions, or opportunities!
 
-I developed a classic Tic-Tac-Toe game, allowing two players to compete. This project involved creating a game board, handling user input, and checking for win conditions. It improved my understanding of arrays and conditional statements.
+<p align="center"> <a href="https://github.com/bJacotin" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> <p align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Let's code together" width="400"/> </p>
+💡 "Let’s create something amazing together!"
+🔗 Check out my repositories
 
-
-## **Connect Four**
-
-My most ambitious project so far is a Connect Four game. Players drop their discs into a grid, and the first to connect four discs in a row wins. This project challenged me to think about more complex algorithms and data structures.
-
-## **Scrabble**
-
-The biggest thing I developped in team. Using Java with JavaFX to developp the ScrabbleGame. We used some complex algorithms to achieve.
-
-
-
-## **Skills**
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-      
-## **Contact**
-Feel free to reach out to me on GitHub if you have any questions or would like to collaborate on a project!
-<!---
-bJacotin/bJacotin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
